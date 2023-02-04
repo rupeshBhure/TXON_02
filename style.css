@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://st.depositphotos.com/1278966/1959/i/950/depositphotos_19597183-stock-photo-school-math-drawing-tools-background.jpg");
+    background-size: 1500px 800px;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    margin-top: 23px
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 21px;
+    border: 5px solid black;
+    font-size: 34px;
+    height: 65px;
+    width: 456px;
+}
+
+button {
+    border-radius: 20px;
+    font-size: 40px;
+    background: black;
+    color: white;
+    width: 90px;
+    height: 60px;
+    margin: 6px;
+}
+
+.calculator {
+    border: 4px solid black;
+    background-color: rgb(106, 165, 233);
+    padding: 23px;
+    border-radius: 90px;
+    display: inline-block;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
